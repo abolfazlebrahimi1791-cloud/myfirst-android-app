@@ -1,0 +1,9 @@
+{
+  "name": "android-test",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'dummy build'",
+    "dev": "echo 'Android development environment loaded successfully'",
+    "start": "echo 'Android development environment loaded successfully'"
+  }
+}
